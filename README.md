@@ -5,7 +5,7 @@ Mentorship Goals Needed To Finish
 ## CSS
 
 - [x] Flex Box
-- [x] CSS Grid
+- [ ] CSS Grid
 - [ ] Transform
 - [ ] Animation
 - [ ] Media Queries
@@ -91,35 +91,3 @@ Mentorship Goals Needed To Finish
 - [ ] BEM
 - [ ] Unit Testing
 - [ ] Debugging
-
-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
-
-## Peoples Checklist
-
-- [ ] Ahmed Ezz
-- [ ] Ahmed Darwish
-- [ ] Amr Hendawy
-- [ ] Anas Qasem
-- [ ] Ayman Ali
-- [ ] Ayman Taha
-- [ ] Elsayed Gamal
-- [ ] Hagar Khalid
-- [ ] Hassan Ahmed Mustafa
-- [ ] Heba Gamal
-- [ ] Houssam Sabbabi
-- [ ] Karam Ayed
-- [ ] Lobna Nasser
-- [ ] Mahmoud Ali
-- [ ] Mohamed Ahmed Shawky
-- [ ] Mohamed Amr Barakat
-- [ ] Mohamed Mustafa Abugad
-- [ ] Mohamed Salah
-- [ ] Naglaa Saber
-- [ ] Nahla Khaireldeen
-- [ ] Nour Atef
-- [ ] Noura Nabil
-- [ ] Radwa Omar
-- [ ] Remon Lotfy
-- [ ] Salwa Sayed Younes
-- [ ] Sami Albakour
-- [ ] Shaimaa Ramadan
